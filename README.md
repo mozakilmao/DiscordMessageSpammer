@@ -6,3 +6,4 @@ Spams messages using Selenium and PyAutoGui
 <p>cd DiscordMessageSpammer</p>
 <p>requirements.bat</p>
 <p>python DiscordMessageSpammer.py</p>
+<p></p>
