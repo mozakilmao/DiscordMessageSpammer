@@ -1,7 +1,8 @@
 # DiscordMessageSpammer
 Spams messages using Selenium and PyAutoGui
 
-<h1>Installation</h1>
+## <a id="install"></a>🔰 〢 Installation
+
 ```
 git clone https://github.com/mozakilmao/DiscordMessageSpammer.git
 cd DiscordMessageSpammer
